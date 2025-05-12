@@ -32,7 +32,7 @@ Secure RESTful API with validation and error handling
 
 📦 Installation---------------------------------
 # Clone the repo
-git clone https://github.com/yourusername/real-estate-app.git
+[git clone https://github.com/yourusername/real-estate-app.git](https://github.com/stanzin-curry/Real-Estate-Website.git)
 cd real-estate-app
 
 # Install backend dependencies
