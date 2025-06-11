@@ -1,4 +1,4 @@
-🏡 Real Estate Web App
+🏡 Real Estate Web Website
 
 A full-featured real estate website built by me as a full-stack developer. This platform allows users to browse, search, and list properties for sale or rent. It includes user authentication, property management, responsive design, and real-time data handling.
 
